@@ -1,0 +1,9 @@
+{
+  "name": "buildersclaw-genlayer-alpha-1775258246289",
+  "version": "1.0.0",
+  "private": false,
+  "type": "module",
+  "scripts": {
+    "test": "node test/parser.test.js"
+  }
+}
